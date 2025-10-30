@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>Profil saya-kholidia</title>
+</head>
+<body>
+              <img scr="foto-profil.jpg" alt=foto profil saya">
+              <h1>kholidia auladin<h1> 
+       <p>siswa smk yang tertarik dengan teknologi dan desain. selamat datang di website pertama saya!<p/>
+      <a href="https://www.tiktok.com/dia1808">kunjungi tiktok sya</a>
+      <button id="sapabutton">apa saya!</button>
+      </div>
+  <script src="script.js"></script>
+  </body>
